@@ -8,9 +8,9 @@
 |:-------:|:-------:|:------:|
 |  10/02 |  자연어처리 입문, 단어 벡터화 (Word embedding) - [Link](https://github.com/hanjy1777/KAIST-NLP-tutorial  )  |   10/09    |
 |  10/07 |  	문서 분류 (Text classification) - [Link](https://github.com/Nardien/samsung_text_classification) | 10/14  |       |
-|  10/08 |  문장 분석 (Sentence parsing) -[Link](https://github.com/hankook/Samsung-AI-KAIST/tree/master/191008_Sentence_Parsing) | 10/15 |
+|  10/08 |  문장 분석 (Sentence parsing) - [Link](https://github.com/hankook/Samsung-AI-KAIST/tree/master/191008_Sentence_Parsing) | 10/15 |
 |  10/10 |  언어 모델 (RNN 기반)  |   -    |
-|  10/11 |  기계 번역 (Seq-to-seq) |   -   |
+|  10/11 |  기계 번역 (Seq-to-seq) - [Link](https://github.com/cheonbok94/Quiz_Kaist_1013) |   10/20  |
 
 ### Week 6
 | Date | Topic | Deadline | 

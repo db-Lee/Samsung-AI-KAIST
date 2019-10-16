@@ -17,6 +17,6 @@
 |:-------:|:-------:|:------:|
 |  10/14 |  어텐션 기반 모델, 사전 학습 (Transformer, BERT) - [Link](https://github.com/ts-kim/samsung-ai-kaist) | 10/21 |
 |  10/15 |  자연어 생성 (Text generation) - [Link1](https://github.com/JinheonBaek/Samsung_Text_Generation_Tutorial), Link2 | 10/22 |  
-|  10/16 |  	대화 모델 (Conversation agent, Bias & Fairness)  |   -   |
+|  10/16 |  	대화 모델 (Conversation agent, Bias & Fairness) -[Link](https://github.com/NoSyu/samsung-ds-kaist-ai-expert-2019-fall) | 10/24 |
 |  10/17 |  	질의 응답 (Attention model, Memory Networks)   |   -   |
 |  10/18 |  	자연어 처리 중간평가	  |   -    |
